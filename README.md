@@ -27,7 +27,7 @@ VulnScanner is an automated security tool designed to identify potential vulnera
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/trueman700/vulnscanner.git
+git clone https://github.com/Kev-Kim-hub/vulnscanner.git
 cd vulnscanner
 ```
 
